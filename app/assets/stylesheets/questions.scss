@@ -1,0 +1,24 @@
+#button {
+  background-color: #4baefa;
+  font-weight: bold;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+#question {
+  border-left: solid 2px grey;
+  padding: 5px 15px;
+  margin-bottom: 20px;
+}
+
+#coach {
+  border-left: solid 2px grey;
+  padding: 5px 15px;
+  background-color : #f5eca9;
+  margin-bottom: 20px;
+}
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
